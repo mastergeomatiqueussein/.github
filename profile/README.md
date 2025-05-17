@@ -12,7 +12,7 @@
   <tr>
     <td>Traitement de l'info. géo. avec R R</a></td>
     <td>Cours</td>
-    <td><a href=""https://mastergeomatiqueussein.github.io/Intro_geo_avec_R/">mastergeomatiqueussein.github.io/Intro_geo_avec_R/</a></td>
+    <td><a href="https://mastergeomatiqueussein.github.io/Intro_geo_avec_R/">mastergeomatiqueussein.github.io/Intro_geo_avec_R</a></td>
     <td>H. Pecout</td>
   </tr>
   <tr>
