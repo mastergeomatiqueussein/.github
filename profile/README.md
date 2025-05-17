@@ -12,9 +12,9 @@
     <td><b>Auteur(s)</b></td>
   </tr>
   <tr>
-    <td>Introduction à R</a></td>
+    <td>Traitement de l'info. géo. avec R R</a></td>
     <td>Cours</td>
-    <td><a href=""></a></td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Intro_geo_avec_R">mastergeomatiqueussein/Intro_geo_avec_R</a></td>
     <td></td>
   </tr>
   <tr>
