@@ -2,7 +2,7 @@
 
 ## R
 
-### Support de cours
+#### Supports de cours
 
 <table>
   <tr>
@@ -21,7 +21,7 @@
     <td>Cartographie avec R</td>
     <td>Cours</td>
     <td><a href="https://rcarto.github.io/cartographie_avec_r/">https://rcarto.github.io/cartographie_avec_r</a></td>
-    <td>Hugues Pecout</td>
+    <td>Timothée Giraud & Hugues Pecout</td>
   </tr>
   <tr>
     <td>Cartographie avec R</td>
@@ -33,7 +33,7 @@
     <td>Géomatique avec R</td>
     <td>Cours</td>
     <td><a href="https://rcarto.github.io/geomatique_avec_r/">https://rcarto.github.io/geomatique_avec_r</a></td>
-    <td>Hugues Pecout</td>
+    <td>Timothée Giraud & Hugues Pecout</td>
   </tr>
   <tr>
     <td>Géomatique avec R</td>
