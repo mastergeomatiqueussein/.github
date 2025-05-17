@@ -55,10 +55,27 @@
     <td><b>Lien d'accès</b></td>
   </tr>
   <tr>
+    <td>Spatial Data Science</td>
+    <td><a href="https://r-spatial.org/book/">r-spatial.org/book/</a></td>
+  </tr>
+  <tr>
+    <td>Geocomputation with R</td>
+    <td><a href="https://r.geocompx.org/">r.geocompx.org/k/</a></td>
+  </tr>
+  <tr>
+    <td>Geocomputation avec R (FR)</td>
+    <td><a href="https://r.geocompx.org/fr/">r.geocompx.org/fr/</a></td>
+  </tr>
+  <tr>
+    <td>Spatial Data Science with R</td>
+    <td><a href="https://r-spatial.org/book/">r-spatial.org/book/</a></td>
+  </tr>
+  <tr>
     <td>Site web ElementR</td>
-    <td><a href="https://elementr.cnrs.fr/">elementr.cnrs.fr</a></td>
+    <td><a href="rspatial.org/index.html">rspatial.org</a></td>
   </tr>
 </table>
+
 
 ## Python
 
