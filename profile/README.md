@@ -1,11 +1,11 @@
-# Master Géomatique USSEIN - Matériel de cours
+# Master Géomatique USSEIN 
 
-## R
+## Cours de R
 
 <table>
   <tr>
     <td><b>Intitulé du cours</b>/td>
-    <td><b>Lien du repertoire</b></td>
+    <td><b>Lien d'accès</b></td>
     <td><b>Auteur(s)</b></td>
   </tr>
   <tr>
@@ -20,17 +20,17 @@
   </tr>
   <tr>
     <td>Géomatique avec R</a></td>
-    <td><a href=""></a>/td>
+    <td><a href=""></a></td>
     <td>Hugues Pecout</td>
   </tr>
   <tr>
     <td>OpenStreetMap avec R</a></td>
-    <td><a href=""></a>/td>
+    <td><a href=""></a></td>
     <td>Hugues Pecout</td>
   </tr>
 </table>
 
-#### Ressources utiles
+#### Ressources utiles en libra accès
 
 <table>
   <tr>
@@ -38,15 +38,15 @@
     <td><b>Lien d'accès</b></td>
   </tr>
   <tr>
-    <td><b>Cartographie avec R</b></td>
+    <td>Cartographie avec R</td>
     <td><a href="https://rcarto.github.io/cartographie_avec_r/"></a>https://rcarto.github.io/cartographie_avec_r</td>
   </tr>
   <tr>
-    <td><b>Géomatique avec R</b></td>
+    <td>Géomatique avec R</td>
     <td><a href="https://rcarto.github.io/geomatique_avec_r/"></a>https://rcarto.github.io/geomatique_avec_r</td>
   </tr>
   <tr>
-    <td><b>Site web ElementR</b></td>
+    <td>Site web ElementR</td>
     <td><a href="https://elementr.cnrs.fr/"></a>elementr.cnrs.fr</td>
   </tr>
 </table>
