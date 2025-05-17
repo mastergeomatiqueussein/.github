@@ -52,6 +52,12 @@
     <td><a href="https://github.com/mastergeomatiqueussein/OpenStreetMap_avec_R">mastergeomatiqueussein/OpenStreetMap_avec_R</a></td>
     <td>H. Pecout</td>
   </tr>
+  <tr>
+    <td>Géomatique avec R</td>
+    <td>Évaluation</td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Evaluation_R">https://github.com/mastergeomatiqueussein/Evaluation_R</a></td>
+    <td>H. Pecout</td>
+  </tr>
 </table>
 
 #### Ressources utiles en libre accès :
