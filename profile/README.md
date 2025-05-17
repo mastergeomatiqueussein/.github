@@ -91,7 +91,7 @@
     <td><b>Auteur(s)</b></td>
   </tr>
   <tr>
-    <td>Traitement de l'info. géo. avec R</a></td>
+    <td>Analyse spatiale avec R</a></td>
     <td>Cours</td>
     <td><a href="https://mastergeomatiqueussein.github.io/Intro_analyse_spatiale/">mastergeomatiqueussein.github.io/Intro_analyse_spatiale</a></td>
     <td>H. Pecout</td>
