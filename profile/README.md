@@ -77,7 +77,22 @@
 
 ## Cartographie
 
-## Analyse spatiale
+## Cours analyse spatiale
+
+<table>
+  <tr>
+    <td><b>Intitulé</b></td>
+    <td><b>Type</b></td>
+    <td><b>Lien d'accès</b></td>
+    <td><b>Auteur(s)</b></td>
+  </tr>
+  <tr>
+    <td>Traitement de l'info. géo. avec R</a></td>
+    <td>Cours</td>
+    <td><a href="https://mastergeomatiqueussein.github.io/Intro_analyse_spatiale/">mastergeomatiqueussein.github.io/Intro_analyse_spatiale</a></td>
+    <td>H. Pecout</td>
+  </tr>
+</table>table>
 
 ## Télédetection
 
