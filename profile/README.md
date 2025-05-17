@@ -51,10 +51,6 @@
 
 <table>
   <tr>
-    <td><b>Intitulé</b></td>
-    <td><b>Lien d'accès</b></td>
-  </tr>
-  <tr>
     <td>Spatial Data Science</td>
     <td><a href="https://r-spatial.org/book/">r-spatial.org/book/</a></td>
   </tr>
@@ -67,12 +63,12 @@
     <td><a href="https://r.geocompx.org/fr/">r.geocompx.org/fr/</a></td>
   </tr>
   <tr>
-    <td>Spatial Data Science with R</td>
-    <td><a href="https://r-spatial.org/book/">r-spatial.org/book/</a></td>
+    <td>Spatial Data Science with R and `terra`</td>
+    <td><a href="https://rspatial.org/index.html">rspatial.org/a></td>
   </tr>
   <tr>
     <td>Site web ElementR</td>
-    <td><a href="rspatial.org/index.html">rspatial.org</a></td>
+    <td><a href="https://elementr.cnrs.fr/">elementr.cnrs.fr</a></td>
   </tr>
 </table>
 
