@@ -21,31 +21,31 @@
     <td>Cartographie avec R</td>
     <td>Cours</td>
     <td><a href="https://rcarto.github.io/cartographie_avec_r/">https://rcarto.github.io/cartographie_avec_r</a></td>
-    <td>Timothée Giraud & Hugues Pecout</td>
+    <td>T. Giraud & H. Pecout</td>
   </tr>
   <tr>
     <td>Cartographie avec R</td>
     <td>Exercice</td>
-    <td><a href="https://github.com/mastergeomatiqueussein/Cartographie_avec_R">github.com/mastergeomatiqueussein/Cartographie_avec_R</a></td>
-    <td>Hugues Pecout</td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Cartographie_avec_R">mastergeomatiqueussein/Cartographie_avec_R</a></td>
+    <td>H. Pecout</td>
   </tr>
   <tr>
     <td>Géomatique avec R</td>
     <td>Cours</td>
     <td><a href="https://rcarto.github.io/geomatique_avec_r/">https://rcarto.github.io/geomatique_avec_r</a></td>
-    <td>Timothée Giraud & Hugues Pecout</td>
+    <td>T. Giraud & H. Pecout</td>
   </tr>
   <tr>
     <td>Géomatique avec R</td>
     <td>Exercice</td>
-    <td><a href=""></a></td>
-    <td>Hugues Pecout</td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Geomatique_avec_R">mastergeomatiqueussein/Geomatique_avec_R</a></td>
+    <td>H. Pecout</td>
   </tr>
   <tr>
     <td>OpenStreetMap avec R</td>
     <td>Exercice</td>
-    <td><a href=""></a></td>
-    <td>Hugues Pecout</td>
+    <td><a href="https://github.com/mastergeomatiqueussein/OpenStreetMap_avec_R">mastergeomatiqueussein/OpenStreetMap_avec_R</a></td>
+    <td>H. Pecout</td>
   </tr>
 </table>
 
