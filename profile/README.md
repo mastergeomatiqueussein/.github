@@ -14,13 +14,13 @@
   <tr>
     <td>Traitement de l'info. géo. avec R R</a></td>
     <td>Cours</td>
-    <td><a href="https://github.com/mastergeomatiqueussein/Intro_geo_avec_R">mastergeomatiqueussein/Intro_geo_avec_R</a></td>
+    <td><a href=""https://mastergeomatiqueussein.github.io/Intro_geo_avec_R/">mastergeomatiqueussein.github.io/Intro_geo_avec_R/</a></td>
     <td></td>
   </tr>
   <tr>
     <td>Cartographie avec R</td>
     <td>Cours</td>
-    <td><a href="https://rcarto.github.io/cartographie_avec_r/">https://rcarto.github.io/cartographie_avec_r</a></td>
+    <td><a href="https://rcarto.github.io/cartographie_avec_r/">rcarto.github.io/cartographie_avec_r</a></td>
     <td>T. Giraud & H. Pecout</td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
   <tr>
     <td>Géomatique avec R</td>
     <td>Cours</td>
-    <td><a href="https://rcarto.github.io/geomatique_avec_r/">https://rcarto.github.io/geomatique_avec_r</a></td>
+    <td><a href="https://rcarto.github.io/geomatique_avec_r/">rcarto.github.io/geomatique_avec_r</a></td>
     <td>T. Giraud & H. Pecout</td>
   </tr>
   <tr>
