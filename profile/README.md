@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td><b>Intitulé du cours</b>/td>
+    <td><b>Intitulé du cours</b></td>
     <td><b>Lien d'accès</b></td>
     <td><b>Auteur(s)</b></td>
   </tr>
@@ -15,7 +15,7 @@
   </tr>
   <tr>
     <td>Cartographie avec R</a></td>
-    <td><a href="https://github.com/mastergeomatiqueussein/Cartographie_avec_R"></a>https://github.com/mastergeomatiqueussein/Cartographie_avec_R</td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Cartographie_avec_R"></a>github.com/mastergeomatiqueussein/Cartographie_avec_R</td>
     <td>Hugues Pecout</td>
   </tr>
   <tr>
@@ -39,15 +39,15 @@
   </tr>
   <tr>
     <td>Cartographie avec R</td>
-    <td><a href="https://rcarto.github.io/cartographie_avec_r/"></a>https://rcarto.github.io/cartographie_avec_r</td>
+    <td><a href="https://rcarto.github.io/cartographie_avec_r/">https://rcarto.github.io/cartographie_avec_r</a></td>
   </tr>
   <tr>
     <td>Géomatique avec R</td>
-    <td><a href="https://rcarto.github.io/geomatique_avec_r/"></a>https://rcarto.github.io/geomatique_avec_r</td>
+    <td><a href="https://rcarto.github.io/geomatique_avec_r/">https://rcarto.github.io/geomatique_avec_r</a></td>
   </tr>
   <tr>
     <td>Site web ElementR</td>
-    <td><a href="https://elementr.cnrs.fr/"></a>elementr.cnrs.fr</td>
+    <td><a href="https://elementr.cnrs.fr/">elementr.cnrs.fr</a></td>
   </tr>
 </table>
 
