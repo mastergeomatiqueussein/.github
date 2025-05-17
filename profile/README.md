@@ -2,12 +2,12 @@
 
 ## Liste des cours :
 - [R](#cours-r)
-- [R](#cours-analyse-spatiale)
+- [Analyse spatiale](#analyse-spatiale)
 - ...
 
 </br>
 
-## Cours R
+## R
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
 
 </br>
 
-## Cours analyse spatiale
+## Analyse spatiale
 
 <table>
   <tr>
