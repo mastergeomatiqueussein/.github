@@ -1,6 +1,8 @@
 # Master Géomatique USSEIN 
 
-## Cours de R
+## R
+
+### Support de cours
 
 <table>
   <tr>
@@ -15,7 +17,7 @@
   </tr>
   <tr>
     <td>Cartographie avec R</a></td>
-    <td><a href="https://github.com/mastergeomatiqueussein/Cartographie_avec_R"></a>github.com/mastergeomatiqueussein/Cartographie_avec_R</td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Cartographie_avec_R">github.com/mastergeomatiqueussein/Cartographie_avec_R</a></td>
     <td>Hugues Pecout</td>
   </tr>
   <tr>
@@ -30,7 +32,7 @@
   </tr>
 </table>
 
-#### Ressources utiles en libra accès
+#### Ressources utiles en libre accès
 
 <table>
   <tr>
