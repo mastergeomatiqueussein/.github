@@ -55,7 +55,7 @@
   <tr>
     <td>Géomatique avec R</td>
     <td>Évaluation</td>
-    <td><a href="https://github.com/mastergeomatiqueussein/Evaluation_R">https://github.com/mastergeomatiqueussein/Evaluation_R</a></td>
+    <td><a href="https://github.com/mastergeomatiqueussein/Evaluation_R">mastergeomatiqueussein/Evaluation_R</a></td>
     <td>H. Pecout</td>
   </tr>
 </table>
