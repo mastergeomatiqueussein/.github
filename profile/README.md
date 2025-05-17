@@ -10,7 +10,7 @@
     <td><b>Auteur(s)</b></td>
   </tr>
   <tr>
-    <td>Traitement de l'info. géo. avec R R</a></td>
+    <td>Traitement de l'info. géo. avec R</a></td>
     <td>Cours</td>
     <td><a href="https://mastergeomatiqueussein.github.io/Intro_geo_avec_R/">mastergeomatiqueussein.github.io/Intro_geo_avec_R</a></td>
     <td>H. Pecout</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Geocomputation with R</td>
-    <td><a href="https://r.geocompx.org/">r.geocompx.org/k/</a></td>
+    <td><a href="https://r.geocompx.org/">r.geocompx.org/</a></td>
   </tr>
   <tr>
     <td>Geocomputation avec R (FR)</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Spatial Data Science with R and `terra`</td>
-    <td><a href="https://rspatial.org/index.html">rspatial.org/a></td>
+    <td><a href="https://rspatial.org/index.html">rspatial.org</a></td>
   </tr>
   <tr>
     <td>Site web ElementR</td>
