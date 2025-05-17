@@ -1,7 +1,7 @@
 # Master Géomatique - USSEIN 
 
 ## Liste des cours :
-- [R](#cours-r)
+- [R](#r)
 - [Analyse spatiale](#analyse-spatiale)
 - ...
 
