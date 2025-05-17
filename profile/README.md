@@ -1,4 +1,4 @@
-# Master Géomatique USSEIN 
+# Master Géomatique - USSEIN 
 
 ## Liste des cours :
 - [R](#cours-r)
@@ -7,7 +7,7 @@
 
 </br>
 
-## R
+# R
 
 <table>
   <tr>
@@ -81,7 +81,7 @@
 
 </br>
 
-## Analyse spatiale
+# Analyse spatiale
 
 <table>
   <tr>
@@ -105,19 +105,19 @@
 
 
 
-## Python
+# Python
 
 
 
 </br>
 
-## Cartographie
+# Cartographie
 
 
 
 </br>
 
-## Télédetection
+# Télédetection
 
 
 
